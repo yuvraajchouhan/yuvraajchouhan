@@ -15,15 +15,11 @@
 
 <h3 align="left">Projects:</h3>
 <p>
-<a href="https://github.com/yuvraajchouhan/mySpot" target="_blank" rel="noreferrer"> <span class="material-symbols-outlined">
-directions_car
-</span> </a>  
+<a href="https://github.com/yuvraajchouhan/mySpot" target="_blank" rel="noreferrer">mySpot</a>  
 
-<a href="https://github.com/yuvraajchouhan/iDealPup" target="_blank" rel="noreferrer"> <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0xMSAyM2wtNy45ODEuMDE0di0xMGw4Ljk4MS04YzMgMi42NjggNiA1LjMxOSA5IDcuOTg2djEwbC03Ljk4MS4wMTR2LTJjMC0uMDE4LjAxMS0uNzItLjAwMS0xLjA1Mi0uMDI3LS40MjEtLjI5LS43NDMtLjYzNC0uODgtLjIzNy0uMDktLjUtLjA4OS0uNzMgMC0uMzQ0LjEzNy0uNjI3LjQyNS0uNjU0Ljg0NS0uMDEzLjM1MSAwIDEuMDczIDAgMS4wNzN2MnptNC0yaDRsLjAxOS03LjA5OC03LjAxOS02LjIxMi03IDYuMjMydjcuMDc4aDRsLjAxOS0uOTg2Yy4wMTctMS4zNzkuODg5LTIuNDIxIDEuOTY5LTIuODE2LjY1Ny0uMjQ0IDEuNDA1LS4yNDQgMi4wNjIgMCAxLjA5Ny40MDEgMS45MzMgMS40MzcgMS45NSAyLjgwMnYxem0tMy43MzktOGgxLjQ3OGMxLjE3MS4wMTcgMS4yNjUtLjk4NiAyLjI2MS0uOTg2LjY0NCAwIC45OTYuNTI0IDEgMSAuMDA0LjQ3Ni0uMjguODI2LS42MjMuOTk3LjMyOC4xNzcuNjIuNTI3LjYyMyAxLjAwMy4wMDMuNDc2LS4zNDggMS0xIDEtLjk5NiAwLTEuMDktMS4wMzEtMi4yNjEtMS4wMTRoLTEuNDY1Yy0xLjE3MS0uMDE3LTEuMjc4IDEuMDE0LTIuMjc0IDEuMDE0LS42NTIgMC0xLjAwMy0uNTI0LTEtMSAuMDAzLS40NzYuMjk1LS44MjYuNjIzLTEuMDAzLS4zNDMtLjE3MS0uNjI3LS41MjEtLjYyMy0uOTk3LjAwNC0uNDc2LjM1Ny0xIDEtMSAuOTk2IDAgMS4wOSAxLjAwMyAyLjI2MS45ODZtLjczOS0xMmwxMiAxMC42NzQtMS4zMSAxLjQ4MS0xMC42OC05LjQ5NC0xMC42ODEgOS40OTQtMS4zMjktMS40OTUgMTItMTAuNjZ6Ii8+PC9zdmc+"></a>  
+<a href="https://github.com/yuvraajchouhan/iDealPup" target="_blank" rel="noreferrer">iDealPup</a>  
 
-<a href="https://github.com/COMP2522/project-bhavnoor-yuvraaj-won-leo-gurtej" target="_blank" rel="noreferrer"> <span class="material-symbols-outlined">
-sports_esports
-</span></a> 
+<a href="https://github.com/COMP2522/project-bhavnoor-yuvraaj-won-leo-gurtej" target="_blank" rel="noreferrer">Platform Game</a> 
 </p>
 
 
