@@ -7,9 +7,9 @@
 
 🌱 I’m currently in my last semester of the **Computer Systems Technology Diploma** at **BCIT.**
 
-Projects I'm currently working on:
+Fun Projects I'm currently working on:
   - Linux Hosting Server for a Mac Mini using Ubuntu
-  - React Native Mobile App for Insurance Adjusters 
+  - Diving into AI and Prompt Engineering using Microsoft Semantic Kernel and OpenAI
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
