@@ -17,11 +17,15 @@
 
 <h3 align="left">Projects:</h3>
 <p>
+
+<a href="https://github.com/COMP2522/project-bhavnoor-yuvraaj-won-leo-gurtej" target="_blank" rel="noreferrer">The Vintage Garage</a> 
+
 <a href="https://github.com/yuvraajchouhan/mySpot" target="_blank" rel="noreferrer">mySpot</a>  
 
 <a href="https://github.com/yuvraajchouhan/iDealPup" target="_blank" rel="noreferrer">iDealPup</a>  
 
 <a href="https://github.com/COMP2522/project-bhavnoor-yuvraaj-won-leo-gurtej" target="_blank" rel="noreferrer">Platform Game</a> 
+
 </p>
 
 
