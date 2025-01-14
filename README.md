@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 I’m currently in my last semester of the **Computer Systems Technology Diploma** at **BCIT.**
+🌱 I have recently completed my **Computer Systems Technology Diploma** at **BCIT.**
 
 Fun Projects I'm currently working on:
   - Linux Hosting Server for a Mac Mini using Ubuntu
