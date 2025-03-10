@@ -10,9 +10,6 @@
 
 🌱 I have recently completed my **Computer Systems Technology Diploma** at **BCIT.**
 
-Fun Projects I'm currently working on:
-  - Linux Hosting Server for a Mac Mini using Ubuntu
-  - Diving into AI and Prompt Engineering using Microsoft Semantic Kernel and OpenAI
 
 
 <hr width="60%" >
