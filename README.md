@@ -7,11 +7,8 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-🌱 I have recently completed my **Computer Systems Technology Diploma** at **BCIT.**
+🌱 I am a **Computer Systems Technology Diploma** grad from **BCIT.**
 
-
-
-<hr width="60%" >
 
 
 
@@ -22,8 +19,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yuvraaj-chouhan-866bb6251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraaj-chouhan-866bb6251" height="30" width="40" /></a>
 
-
-
-------
 
 
